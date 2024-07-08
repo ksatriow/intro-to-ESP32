@@ -8,7 +8,6 @@ It has been written **100% in C**. ❤️
 ![](/assets/module_train_esp32.jpg)
 
 </br>
-
 </br>
 
 ### **Tools**
@@ -16,17 +15,18 @@ It has been written **100% in C**. ❤️
 
 ### **Software**
 * [Arduino IDE](https://www.arduino.cc/en/software)
+* [Platformio](https://platformio.org/)
 
 </br>
 
 # **Steps**
 Procedure to create this project 
-
 - [ ] Buy the Tools
 - [ ] Download the software
 - [ ] Build use schematic in document
 - [ ] Run this project code
-- [ ] Deploy to your arduino
+- [ ] Deploy to your ESP32
+- [ ] Testing the result of your code in ESP32
 
 </br>
 
